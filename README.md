@@ -12,7 +12,7 @@ We present KnowledgePearls, a solution for efficient retrieval of analysis state
 # Demo
 
 * [Vega Gapminder](https://vega-gapminder.caleydoapp.org)
-* [Ordino](http://ordino-retrieval.caleydoapp.org)
+* [Ordino](https://ordino-retrieval.caleydoapp.org)
 
 # Installation
 
