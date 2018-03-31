@@ -42,6 +42,6 @@ npm start
 
 ## Source Code
 
-* [Vega Gapminder](Caleydo/vega_clue)
+* [Vega Gapminder](https://github.com/Caleydo/vega_clue)
 
 
