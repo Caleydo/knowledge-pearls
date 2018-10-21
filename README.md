@@ -8,6 +8,16 @@ Storing analytical provenance generates a knowledge base with a large potential 
 
 We present KnowledgePearls, a solution for efficient retrieval of analysis states that are structured as provenance graphs containing automatically recorded user interactions and visualizations. As a core component, we describe a visual interface for querying and exploring analysis states based on their similarity to a partial definition of a requested analysis state. Depending on the use case, this definition may be provided explicitly by the user by formulating a search query or inferred from given reference states. We explain our approach using the example of efficient retrieval of demographic analyses by Hans Rosling and discuss our implementation for a fast look-up of previous states. Our approach is independent of the underlying visualization framework. We discuss the applicability for visualizations which are based on the declarative grammar Vega and we use a Vega-based implementation of Gapminder as guiding example. We additionally present a biomedical case study to illustrate how KnowledgePearls facilitates the exploration process by recalling states from earlier analyses.
 
+## Publication
+
+You can find the publication at [Caleydo](http://caleydo.org/publications/2018_vast_knowledge-pearls/).
+
+```
+Holger Stitz, Samuel Gratzl, Harald Piringer, Thomas Zichner, Marc Streit
+KnowledgePearls: Provenance-Based Visualization Retrieval
+IEEE Transactions on Visualization and Computer Graphics (VAST '18), to appear, doi:10.1109/TVCG.2017.2745298, 2018. 
+```
+
 
 ## Demo
 
