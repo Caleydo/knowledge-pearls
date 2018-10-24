@@ -28,7 +28,7 @@ IEEE Transactions on Visualization and Computer Graphics (VAST '18), to appear, 
 
 ## Installation
 
-### Prerequisits
+### Prerequisites
 
 * [Docker](https://www.docker.com/)
 * [Node/npm](http://nodejs.org/)
