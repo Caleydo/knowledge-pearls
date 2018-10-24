@@ -10,7 +10,7 @@ We present KnowledgePearls, a solution for efficient retrieval of analysis state
 
 ## Publication
 
-You can find the publication at [Caleydo](http://caleydo.org/publications/2018_vast_knowledge-pearls/).
+You can find the publication on the [Caleydo](http://caleydo.org/publications/2018_vast_knowledge-pearls/) website.
 
 ```
 Holger Stitz, Samuel Gratzl, Harald Piringer, Thomas Zichner, Marc Streit
@@ -19,7 +19,7 @@ IEEE Transactions on Visualization and Computer Graphics (VAST '18), to appear, 
 ```
 
 
-## Demo
+## Demos
 
 * [Vega Gapminder](https://vega-gapminder.caleydoapp.org)
 * [Ordino](https://ordino-retrieval.caleydoapp.org)
