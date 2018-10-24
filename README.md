@@ -2,7 +2,7 @@
 
 ![Vega Gapminder](https://raw.githubusercontent.com/Caleydo/knowledge-pearls/assets/vega-gapminder.png)
 
-[Link to this figure](https://vega-gapminder.caleydoapp.org/#clue_graph=persistentWsL5Fis&clue_state=40)
+[Link to the Vega Gapminder demo with the recorded provenance graph shown in the Figure above.](https://vega-gapminder.caleydoapp.org/#clue_graph=persistentWsL5Fis&clue_state=40)
 
 Storing analytical provenance generates a knowledge base with a large potential for recalling previous results and guiding users in future analyses. However, without extensive manual creation of meta information and annotations by the users, search and retrieval of analysis states can become tedious.
 
@@ -21,8 +21,9 @@ IEEE Transactions on Visualization and Computer Graphics (VAST '18), to appear, 
 
 ## Demos
 
-* [Vega Gapminder](https://vega-gapminder.caleydoapp.org)
-* [Ordino](https://ordino-retrieval.caleydoapp.org)
+* [Vega Gapminder](https://vega-gapminder.caleydoapp.org) (with an empty provenance graph)
+* [Vega Gapminder demo with a recorded provenance graph ready for retrieval](https://vega-gapminder.caleydoapp.org/#clue_graph=persistentWsL5Fis&clue_state=40)
+* [Ordino](https://ordino-retrieval.caleydoapp.org) (with an empty provenance graph)
 
 
 ## Installation
