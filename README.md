@@ -2,7 +2,7 @@
 
 ![Vega Gapminder](https://raw.githubusercontent.com/Caleydo/knowledge-pearls/assets/vega-gapminder.png)
 
-[Link to the Vega Gapminder demo with the recorded provenance graph shown in the Figure above.](https://vega-gapminder.caleydoapp.org/#clue_graph=persistentWsL5Fis&clue_state=40)
+[Link to the Vega Gapminder demo](https://vega-gapminder.caleydoapp.org/#clue_graph=persistentWsL5Fis&clue_state=40) with the recorded provenance graph shown in the Figure above.
 
 Storing analytical provenance generates a knowledge base with a large potential for recalling previous results and guiding users in future analyses. However, without extensive manual creation of meta information and annotations by the users, search and retrieval of analysis states can become tedious.
 
